@@ -1,0 +1,12 @@
+{
+  "name": "fitness-dashboard-ddd",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:tadeubarbosa/fitness-dashboard-ddd.git",
+  "author": "Tadeu Barbosa <tadeufbarbosa@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@types/bcrypt": "^3.0.0",
+    "bcrypt": "^5.0.0"
+  }
+}
